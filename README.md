@@ -4,3 +4,6 @@
 Repository to organize my progress on [Project Euler](https://projecteuler.net/archives) challenges.
 
 ![Profile Progress](https://projecteuler.net/profile/davidshah.png)
+
+## Getting Started
+* Open Jupyter Notebook and run.
