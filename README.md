@@ -6,4 +6,4 @@ Repository to organize my progress on [Project Euler](https://projecteuler.net/a
 ![Profile Progress](https://projecteuler.net/profile/davidshah.png)
 
 ## Getting Started
-* Open Jupyter Notebook and run.
+* Open problem notebook and run for solution.
